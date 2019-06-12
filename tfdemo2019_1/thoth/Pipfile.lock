@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "0f1d30d70a1207feb00c250b588534112c1dfe966aff17166e5dd7f6f6102733"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "redhat-aicoe-experiments",
+                "url": "https://tensorflow.pypi.thoth-station.ninja/index/rhel7.6/1.12/jemalloc/simple/",
+                "verify_ssl": true
+            },
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {},
+    "develop": {}
+}
